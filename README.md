@@ -1,2 +1,2 @@
 # University-club
-Has the curriculum for the clubs which are at the Universities.
+Here's the curriculum for the clubs which are at the Universities.
